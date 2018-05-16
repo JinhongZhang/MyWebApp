@@ -14,7 +14,7 @@ namespace MyFirstWebApp.Droid
     {
         protected override void OnCreate(Bundle bundle)
         {
-            //
+            //fff
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
 
